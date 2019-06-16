@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=BOOT0 Pin=U1-59
+Added Component: Designator=C1(c0603)
+Added Component: Designator=C2(c0603)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(c0603)
+Added Component: Designator=C5(C0603)
+Added Component: Designator=C6(C0603)
+Added Component: Designator=C7(C0603)
+Added Component: Designator=C8(C0603)
+Added Component: Designator=C9(C0603)
+Added Component: Designator=FPC?(FPC-0.5MM-36P-LCS-SJ-H2.0)
+Added Component: Designator=J2(SMA)
+Added Component: Designator=L1(L0603)
+Added Component: Designator=L2(L0603)
+Added Component: Designator=L3(L0603)
+Added Component: Designator=R1(r0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=U1(QFN-20_4X4X05P)
+Added Component: Designator=X1(XTAL-5032-2p)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=3V3 Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=3V3 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=BOOT0 Pin=U1-60
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=3V3 Pin=U1-64
+Change Net Name : Old Net Name=EXIT1 New Net Name=COL0
+Change Net Name : Old Net Name=EXIT2 New Net Name=COL1
+Change Net Name : Old Net Name=EXIT4 New Net Name=COL3
+Change Net Name : Old Net Name=EXIT5 New Net Name=COL4
+Change Net Name : Old Net Name=EXIT6 New Net Name=COL5
+Change Net Name : Old Net Name=EXIT7 New Net Name=COL6
+Change Net Name : Old Net Name=EXIT9 New Net Name=COL8
+Change Net Name : Old Net Name=EXIT10 New Net Name=COL2
+Change Net Name : Old Net Name=EXIT11 New Net Name=COL10
+Change Net Name : Old Net Name=EXIT12 New Net Name=COL12
+Change Net Name : Old Net Name=EXIT13 New Net Name=COL13
+Change Net Name : Old Net Name=EXIT14 New Net Name=COL14
+Change Net Name : Old Net Name=EXIT15 New Net Name=COL15
+Added Pin To Net: NetName=50OHM,RFI/O Pin=C5-2
+Added Pin To Net: NetName=50OHM,RFI/O Pin=C6-1
+Added Pin To Net: NetName=50OHM,RFI/O Pin=J2-1
+Added Net: Name=50OHM,RFI/O
+Added Pin To Net: NetName=BATTERY_DECT Pin=U1-14
+Added Net: Name=BATTERY_DECT
+Added Pin To Net: NetName=CE Pin=U1-1
+Added Pin To Net: NetName=CE Pin=U1-24
+Added Net: Name=CE
+Added Pin To Net: NetName=COL7 Pin=U1-59
+Added Net: Name=COL7
+Added Pin To Net: NetName=COL9 Pin=U1-62
+Added Net: Name=COL9
+Added Pin To Net: NetName=COL11 Pin=U1-30
+Added Net: Name=COL11
+Added Pin To Net: NetName=CSN Pin=U1-2
+Added Pin To Net: NetName=CSN Pin=U1-20
+Added Net: Name=CSN
+Added Pin To Net: NetName=IRQ Pin=U1-6
+Added Pin To Net: NetName=IRQ Pin=U1-25
+Added Net: Name=IRQ
+Added Pin To Net: NetName=MISO Pin=U1-5
+Added Pin To Net: NetName=MISO Pin=U1-22
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U1-4
+Added Pin To Net: NetName=MOSI Pin=U1-23
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-9
+Added Pin To Net: NetName=NetC1_1 Pin=X1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-10
+Added Pin To Net: NetName=NetC2_1 Pin=X1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=L2-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-11
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=L3-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-19
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L3-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-13
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-1
+Added Pin To Net: NetName=NetL1_2 Pin=U1-12
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-16
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NRF_SCK Pin=U1-3
+Added Pin To Net: NetName=NRF_SCK Pin=U1-21
+Added Net: Name=NRF_SCK
+Added Pin To Net: NetName=RGB_CTL Pin=U1-53
+Added Net: Name=RGB_CTL
+Added Pin To Net: NetName=USART2_RX Pin=U1-17
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=U1-16
+Added Net: Name=USART2_TX
+Added Pin To Net: NetName=USB_DM Pin=U1-44
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=U1-45
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=VCC_RF Pin=C8-1
+Added Pin To Net: NetName=VCC_RF Pin=C9-1
+Added Pin To Net: NetName=VCC_RF Pin=U1-7
+Added Pin To Net: NetName=VCC_RF Pin=U1-15
+Added Pin To Net: NetName=VCC_RF Pin=U1-18
+Added Net: Name=VCC_RF
+Added Class: Name=NRF24L01
+Added Member To Class: ClassName=core Member=Component FPC? AFC07-S36ECC-00
+Added Room: Name=NRF24L01

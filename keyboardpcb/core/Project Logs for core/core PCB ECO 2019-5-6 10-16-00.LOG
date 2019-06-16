@@ -1,0 +1,94 @@
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(0402_C)
+Added Component: Designator=C3(0402_C)
+Added Component: Designator=K1(SW4X4_SMT)
+Added Component: Designator=P1(PH_7PIN_1.25_H-2)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=U1(LQFP64)
+Added Component: Designator=X1(XTAL-5032-2p)
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=BOOT0 Pin=P1-6
+Added Pin To Net: NetName=BOOT0 Pin=R3-2
+Added Pin To Net: NetName=BOOT0 Pin=U1-59
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=EXIT0 Pin=U1-25
+Added Net: Name=EXIT0
+Added Pin To Net: NetName=EXIT1 Pin=U1-26
+Added Net: Name=EXIT1
+Added Pin To Net: NetName=EXIT2 Pin=U1-27
+Added Net: Name=EXIT2
+Added Pin To Net: NetName=EXIT3 Pin=U1-54
+Added Net: Name=EXIT3
+Added Pin To Net: NetName=EXIT4 Pin=U1-55
+Added Net: Name=EXIT4
+Added Pin To Net: NetName=EXIT5 Pin=U1-56
+Added Net: Name=EXIT5
+Added Pin To Net: NetName=EXIT6 Pin=U1-57
+Added Net: Name=EXIT6
+Added Pin To Net: NetName=EXIT7 Pin=U1-58
+Added Net: Name=EXIT7
+Added Pin To Net: NetName=EXIT8 Pin=U1-60
+Added Net: Name=EXIT8
+Added Pin To Net: NetName=EXIT9 Pin=U1-61
+Added Net: Name=EXIT9
+Added Pin To Net: NetName=EXIT10 Pin=U1-28
+Added Net: Name=EXIT10
+Added Pin To Net: NetName=EXIT11 Pin=U1-29
+Added Net: Name=EXIT11
+Added Pin To Net: NetName=EXIT12 Pin=U1-33
+Added Net: Name=EXIT12
+Added Pin To Net: NetName=EXIT13 Pin=U1-34
+Added Net: Name=EXIT13
+Added Pin To Net: NetName=EXIT14 Pin=U1-35
+Added Net: Name=EXIT14
+Added Pin To Net: NetName=EXIT15 Pin=U1-36
+Added Net: Name=EXIT15
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LPUART1_RX Pin=U1-8
+Added Net: Name=LPUART1_RX
+Added Pin To Net: NetName=LPUART1_TX Pin=U1-9
+Added Net: Name=LPUART1_TX
+Added Pin To Net: NetName=NRST Pin=C1-1
+Added Pin To Net: NetName=NRST Pin=K1-1
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Net: Name=NRST
+Added Pin To Net: NetName=RXD1 Pin=P1-3
+Added Pin To Net: NetName=RXD1 Pin=U1-43
+Added Net: Name=RXD1
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-22
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U1-23
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=U1-15
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SWCLK Pin=P1-5
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Pin To Net: NetName=SWDIO Pin=R2-2
+Added Pin To Net: NetName=SWDIO Pin=U1-46
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TXD1 Pin=P1-2
+Added Pin To Net: NetName=TXD1 Pin=U1-42
+Added Net: Name=TXD1
+Added Pin To Net: NetName=XH_1 Pin=C2-1
+Added Pin To Net: NetName=XH_1 Pin=U1-5
+Added Pin To Net: NetName=XH_1 Pin=X1-2
+Added Net: Name=XH_1
+Added Pin To Net: NetName=XH_2 Pin=C3-1
+Added Pin To Net: NetName=XH_2 Pin=U1-6
+Added Pin To Net: NetName=XH_2 Pin=X1-1
+Added Net: Name=XH_2
+Added Class: Name=core
+Added Room: Name=core

@@ -1,0 +1,423 @@
+Added Pin To Net: NetName=GND Pin=SW7-7
+Added Pin To Net: NetName=GND Pin=SW8-7
+Added Pin To Net: NetName=GND Pin=SW9-7
+Added Pin To Net: NetName=GND Pin=SW10-7
+Added Pin To Net: NetName=GND Pin=SW11-7
+Added Pin To Net: NetName=GND Pin=SW12-7
+Added Pin To Net: NetName=GND Pin=SW13-7
+Added Pin To Net: NetName=GND Pin=SW14-7
+Added Pin To Net: NetName=GND Pin=SW15-7
+Added Pin To Net: NetName=GND Pin=SW16-7
+Added Pin To Net: NetName=GND Pin=SW17-7
+Added Pin To Net: NetName=GND Pin=SW18-7
+Added Pin To Net: NetName=GND Pin=SW19-7
+Added Pin To Net: NetName=GND Pin=SW25-7
+Added Pin To Net: NetName=GND Pin=SW26-7
+Added Pin To Net: NetName=GND Pin=SW27-7
+Added Pin To Net: NetName=GND Pin=SW28-7
+Added Pin To Net: NetName=GND Pin=SW29-7
+Added Pin To Net: NetName=GND Pin=SW30-7
+Added Pin To Net: NetName=GND Pin=SW31-7
+Added Pin To Net: NetName=GND Pin=SW32-7
+Added Pin To Net: NetName=VCC Pin=SW33-5
+Added Pin To Net: NetName=GND Pin=SW33-7
+Added Pin To Net: NetName=VCC Pin=SW34-5
+Added Pin To Net: NetName=GND Pin=SW34-7
+Added Pin To Net: NetName=VCC Pin=SW35-5
+Added Pin To Net: NetName=GND Pin=SW35-7
+Added Pin To Net: NetName=VCC Pin=SW36-5
+Added Pin To Net: NetName=GND Pin=SW36-7
+Added Pin To Net: NetName=VCC Pin=SW37-5
+Added Pin To Net: NetName=GND Pin=SW37-7
+Added Pin To Net: NetName=VCC Pin=SW38-5
+Added Pin To Net: NetName=GND Pin=SW38-7
+Added Pin To Net: NetName=VCC Pin=SW39-5
+Added Pin To Net: NetName=GND Pin=SW39-7
+Added Pin To Net: NetName=VCC Pin=SW40-5
+Added Pin To Net: NetName=GND Pin=SW40-7
+Added Pin To Net: NetName=VCC Pin=SW41-5
+Added Pin To Net: NetName=GND Pin=SW41-7
+Added Pin To Net: NetName=VCC Pin=SW42-5
+Added Pin To Net: NetName=GND Pin=SW42-7
+Added Pin To Net: NetName=VCC Pin=SW43-5
+Added Pin To Net: NetName=GND Pin=SW43-7
+Added Pin To Net: NetName=VCC Pin=SW44-5
+Added Pin To Net: NetName=GND Pin=SW44-7
+Added Pin To Net: NetName=VCC Pin=SW45-5
+Added Pin To Net: NetName=GND Pin=SW45-7
+Added Pin To Net: NetName=VCC Pin=SW46-5
+Added Pin To Net: NetName=GND Pin=SW46-7
+Added Pin To Net: NetName=VCC Pin=SW47-5
+Added Pin To Net: NetName=GND Pin=SW47-7
+Added Pin To Net: NetName=VCC Pin=SW48-5
+Added Pin To Net: NetName=GND Pin=SW48-7
+Added Pin To Net: NetName=VCC Pin=SW49-5
+Added Pin To Net: NetName=GND Pin=SW49-7
+Added Pin To Net: NetName=VCC Pin=SW50-5
+Added Pin To Net: NetName=GND Pin=SW50-7
+Added Pin To Net: NetName=VCC Pin=SW51-5
+Added Pin To Net: NetName=GND Pin=SW51-7
+Added Pin To Net: NetName=VCC Pin=SW52-5
+Added Pin To Net: NetName=GND Pin=SW52-7
+Added Pin To Net: NetName=VCC Pin=SW53-5
+Added Pin To Net: NetName=GND Pin=SW53-7
+Added Pin To Net: NetName=VCC Pin=SW54-5
+Added Pin To Net: NetName=GND Pin=SW54-7
+Added Pin To Net: NetName=VCC Pin=SW55-5
+Added Pin To Net: NetName=GND Pin=SW55-7
+Added Pin To Net: NetName=VCC Pin=SW56-5
+Added Pin To Net: NetName=GND Pin=SW56-7
+Added Pin To Net: NetName=VCC Pin=SW57-5
+Added Pin To Net: NetName=GND Pin=SW57-7
+Added Pin To Net: NetName=VCC Pin=SW58-5
+Added Pin To Net: NetName=GND Pin=SW58-7
+Added Pin To Net: NetName=VCC Pin=SW59-5
+Added Pin To Net: NetName=GND Pin=SW59-7
+Added Pin To Net: NetName=VCC Pin=SW60-5
+Added Pin To Net: NetName=GND Pin=SW60-7
+Added Pin To Net: NetName=VCC Pin=SW61-5
+Added Pin To Net: NetName=GND Pin=SW61-7
+Added Pin To Net: NetName=VCC Pin=SW62-5
+Added Pin To Net: NetName=GND Pin=SW62-7
+Added Pin To Net: NetName=GND Pin=SW63-7
+Added Pin To Net: NetName=VCC Pin=SW64-5
+Added Pin To Net: NetName=GND Pin=SW64-7
+Added Pin To Net: NetName=VCC Pin=SW65-5
+Added Pin To Net: NetName=GND Pin=SW65-7
+Added Pin To Net: NetName=VCC Pin=SW66-5
+Added Pin To Net: NetName=GND Pin=SW66-7
+Added Pin To Net: NetName=VCC Pin=SW67-5
+Added Pin To Net: NetName=GND Pin=SW67-7
+Added Pin To Net: NetName=VCC Pin=SW68-5
+Added Pin To Net: NetName=GND Pin=SW68-7
+Added Pin To Net: NetName=VCC Pin=SW69-5
+Added Pin To Net: NetName=GND Pin=SW69-7
+Added Pin To Net: NetName=VCC Pin=SW70-5
+Added Pin To Net: NetName=GND Pin=SW70-7
+Added Pin To Net: NetName=VCC Pin=SW71-5
+Added Pin To Net: NetName=GND Pin=SW71-7
+Added Pin To Net: NetName=VCC Pin=SW72-5
+Added Pin To Net: NetName=GND Pin=SW72-7
+Added Pin To Net: NetName=VCC Pin=SW73-5
+Added Pin To Net: NetName=GND Pin=SW73-7
+Added Pin To Net: NetName=VCC Pin=SW74-5
+Added Pin To Net: NetName=GND Pin=SW74-7
+Added Pin To Net: NetName=VCC Pin=SW75-5
+Added Pin To Net: NetName=GND Pin=SW75-7
+Added Pin To Net: NetName=VCC Pin=SW76-5
+Added Pin To Net: NetName=GND Pin=SW76-7
+Added Pin To Net: NetName=VCC Pin=SW77-5
+Added Pin To Net: NetName=GND Pin=SW77-7
+Added Pin To Net: NetName=VCC Pin=SW78-5
+Added Pin To Net: NetName=GND Pin=SW78-7
+Added Pin To Net: NetName=GND Pin=SW79-7
+Added Pin To Net: NetName=VCC Pin=SW80-5
+Added Pin To Net: NetName=GND Pin=SW80-7
+Added Pin To Net: NetName=VCC Pin=SW81-5
+Added Pin To Net: NetName=GND Pin=SW81-7
+Added Pin To Net: NetName=VCC Pin=SW82-5
+Added Pin To Net: NetName=GND Pin=SW82-7
+Added Pin To Net: NetName=VCC Pin=SW83-5
+Added Pin To Net: NetName=GND Pin=SW83-7
+Added Pin To Net: NetName=VCC Pin=SW84-5
+Added Pin To Net: NetName=GND Pin=SW84-7
+Added Pin To Net: NetName=VCC Pin=SW85-5
+Added Pin To Net: NetName=GND Pin=SW85-7
+Added Pin To Net: NetName=VCC Pin=SW86-5
+Added Pin To Net: NetName=GND Pin=SW86-7
+Added Pin To Net: NetName=VCC Pin=SW87-5
+Added Pin To Net: NetName=GND Pin=SW87-7
+Added Pin To Net: NetName=VCC Pin=SW88-5
+Added Pin To Net: NetName=GND Pin=SW88-7
+Added Pin To Net: NetName=VCC Pin=SW89-5
+Added Pin To Net: NetName=GND Pin=SW89-7
+Added Pin To Net: NetName=VCC Pin=SW90-5
+Added Pin To Net: NetName=GND Pin=SW90-7
+Added Pin To Net: NetName=VCC Pin=SW91-5
+Added Pin To Net: NetName=GND Pin=SW91-7
+Added Pin To Net: NetName=VCC Pin=SW92-5
+Added Pin To Net: NetName=GND Pin=SW92-7
+Added Pin To Net: NetName=VCC Pin=SW93-5
+Added Pin To Net: NetName=GND Pin=SW93-7
+Added Pin To Net: NetName=VCC Pin=SW94-5
+Added Pin To Net: NetName=GND Pin=SW94-7
+Added Pin To Net: NetName=VCC Pin=SW95-5
+Added Pin To Net: NetName=GND Pin=SW95-7
+Added Pin To Net: NetName=VCC Pin=SW96-5
+Added Pin To Net: NetName=GND Pin=SW96-7
+Added Pin To Net: NetName=NetSW5_6 Pin=SW5-6
+Added Pin To Net: NetName=NetSW5_6 Pin=SW6-8
+Added Net: Name=NetSW5_6
+Added Pin To Net: NetName=NetSW6_6 Pin=SW6-6
+Added Pin To Net: NetName=NetSW6_6 Pin=SW7-8
+Added Net: Name=NetSW6_6
+Added Pin To Net: NetName=NetSW7_6 Pin=SW7-6
+Added Pin To Net: NetName=NetSW7_6 Pin=SW8-8
+Added Net: Name=NetSW7_6
+Added Pin To Net: NetName=NetSW8_6 Pin=SW8-6
+Added Pin To Net: NetName=NetSW8_6 Pin=SW9-8
+Added Net: Name=NetSW8_6
+Added Pin To Net: NetName=NetSW9_6 Pin=SW9-6
+Added Pin To Net: NetName=NetSW9_6 Pin=SW10-8
+Added Net: Name=NetSW9_6
+Added Pin To Net: NetName=NetSW10_6 Pin=SW10-6
+Added Pin To Net: NetName=NetSW10_6 Pin=SW11-8
+Added Net: Name=NetSW10_6
+Added Pin To Net: NetName=NetSW11_6 Pin=SW11-6
+Added Pin To Net: NetName=NetSW11_6 Pin=SW12-8
+Added Net: Name=NetSW11_6
+Added Pin To Net: NetName=NetSW12_6 Pin=SW12-6
+Added Pin To Net: NetName=NetSW12_6 Pin=SW13-8
+Added Net: Name=NetSW12_6
+Added Pin To Net: NetName=NetSW13_6 Pin=SW13-6
+Added Pin To Net: NetName=NetSW13_6 Pin=SW14-8
+Added Net: Name=NetSW13_6
+Added Pin To Net: NetName=NetSW14_6 Pin=SW14-6
+Added Pin To Net: NetName=NetSW14_6 Pin=SW15-8
+Added Net: Name=NetSW14_6
+Added Pin To Net: NetName=NetSW15_6 Pin=SW15-6
+Added Pin To Net: NetName=NetSW15_6 Pin=SW16-8
+Added Net: Name=NetSW15_6
+Added Pin To Net: NetName=NetSW16_6 Pin=SW16-6
+Added Pin To Net: NetName=NetSW16_6 Pin=SW32-6
+Added Net: Name=NetSW16_6
+Added Pin To Net: NetName=NetSW17_6 Pin=SW17-6
+Added Pin To Net: NetName=NetSW17_6 Pin=SW18-8
+Added Net: Name=NetSW17_6
+Added Pin To Net: NetName=NetSW17_8 Pin=SW17-8
+Added Pin To Net: NetName=NetSW17_8 Pin=SW33-8
+Added Net: Name=NetSW17_8
+Added Pin To Net: NetName=NetSW18_6 Pin=SW18-6
+Added Pin To Net: NetName=NetSW18_6 Pin=SW19-8
+Added Net: Name=NetSW18_6
+Added Pin To Net: NetName=NetSW19_6 Pin=SW19-6
+Added Pin To Net: NetName=NetSW19_6 Pin=SW20-8
+Added Net: Name=NetSW19_6
+Added Pin To Net: NetName=NetSW20_6 Pin=SW20-6
+Added Pin To Net: NetName=NetSW20_6 Pin=SW21-8
+Added Net: Name=NetSW20_6
+Added Pin To Net: NetName=NetSW21_6 Pin=SW21-6
+Added Pin To Net: NetName=NetSW21_6 Pin=SW22-8
+Added Net: Name=NetSW21_6
+Added Pin To Net: NetName=NetSW22_6 Pin=SW22-6
+Added Pin To Net: NetName=NetSW22_6 Pin=SW23-8
+Added Net: Name=NetSW22_6
+Added Pin To Net: NetName=NetSW23_6 Pin=SW23-6
+Added Pin To Net: NetName=NetSW23_6 Pin=SW24-8
+Added Net: Name=NetSW23_6
+Added Pin To Net: NetName=NetSW24_6 Pin=SW24-6
+Added Pin To Net: NetName=NetSW24_6 Pin=SW25-8
+Added Net: Name=NetSW24_6
+Added Pin To Net: NetName=NetSW25_6 Pin=SW25-6
+Added Pin To Net: NetName=NetSW25_6 Pin=SW26-8
+Added Net: Name=NetSW25_6
+Added Pin To Net: NetName=NetSW26_6 Pin=SW26-6
+Added Pin To Net: NetName=NetSW26_6 Pin=SW27-8
+Added Net: Name=NetSW26_6
+Added Pin To Net: NetName=NetSW27_6 Pin=SW27-6
+Added Pin To Net: NetName=NetSW27_6 Pin=SW28-8
+Added Net: Name=NetSW27_6
+Added Pin To Net: NetName=NetSW28_6 Pin=SW28-6
+Added Pin To Net: NetName=NetSW28_6 Pin=SW29-8
+Added Net: Name=NetSW28_6
+Added Pin To Net: NetName=NetSW29_6 Pin=SW29-6
+Added Pin To Net: NetName=NetSW29_6 Pin=SW30-8
+Added Net: Name=NetSW29_6
+Added Pin To Net: NetName=NetSW30_6 Pin=SW30-6
+Added Pin To Net: NetName=NetSW30_6 Pin=SW31-8
+Added Net: Name=NetSW30_6
+Added Pin To Net: NetName=NetSW31_6 Pin=SW31-6
+Added Pin To Net: NetName=NetSW31_6 Pin=SW32-8
+Added Net: Name=NetSW31_6
+Added Pin To Net: NetName=NetSW33_6 Pin=SW33-6
+Added Pin To Net: NetName=NetSW33_6 Pin=SW34-8
+Added Net: Name=NetSW33_6
+Added Pin To Net: NetName=NetSW34_6 Pin=SW34-6
+Added Pin To Net: NetName=NetSW34_6 Pin=SW35-8
+Added Net: Name=NetSW34_6
+Added Pin To Net: NetName=NetSW35_6 Pin=SW35-6
+Added Pin To Net: NetName=NetSW35_6 Pin=SW36-8
+Added Net: Name=NetSW35_6
+Added Pin To Net: NetName=NetSW36_6 Pin=SW36-6
+Added Pin To Net: NetName=NetSW36_6 Pin=SW37-8
+Added Net: Name=NetSW36_6
+Added Pin To Net: NetName=NetSW37_6 Pin=SW37-6
+Added Pin To Net: NetName=NetSW37_6 Pin=SW38-8
+Added Net: Name=NetSW37_6
+Added Pin To Net: NetName=NetSW38_6 Pin=SW38-6
+Added Pin To Net: NetName=NetSW38_6 Pin=SW39-8
+Added Net: Name=NetSW38_6
+Added Pin To Net: NetName=NetSW39_6 Pin=SW39-6
+Added Pin To Net: NetName=NetSW39_6 Pin=SW40-8
+Added Net: Name=NetSW39_6
+Added Pin To Net: NetName=NetSW40_6 Pin=SW40-6
+Added Pin To Net: NetName=NetSW40_6 Pin=SW41-8
+Added Net: Name=NetSW40_6
+Added Pin To Net: NetName=NetSW41_6 Pin=SW41-6
+Added Pin To Net: NetName=NetSW41_6 Pin=SW42-8
+Added Net: Name=NetSW41_6
+Added Pin To Net: NetName=NetSW42_6 Pin=SW42-6
+Added Pin To Net: NetName=NetSW42_6 Pin=SW43-8
+Added Net: Name=NetSW42_6
+Added Pin To Net: NetName=NetSW43_6 Pin=SW43-6
+Added Pin To Net: NetName=NetSW43_6 Pin=SW44-8
+Added Net: Name=NetSW43_6
+Added Pin To Net: NetName=NetSW44_6 Pin=SW44-6
+Added Pin To Net: NetName=NetSW44_6 Pin=SW45-8
+Added Net: Name=NetSW44_6
+Added Pin To Net: NetName=NetSW45_6 Pin=SW45-6
+Added Pin To Net: NetName=NetSW45_6 Pin=SW46-8
+Added Net: Name=NetSW45_6
+Added Pin To Net: NetName=NetSW46_6 Pin=SW46-6
+Added Pin To Net: NetName=NetSW46_6 Pin=SW47-8
+Added Net: Name=NetSW46_6
+Added Pin To Net: NetName=NetSW47_6 Pin=SW47-6
+Added Pin To Net: NetName=NetSW47_6 Pin=SW48-8
+Added Net: Name=NetSW47_6
+Added Pin To Net: NetName=NetSW48_6 Pin=SW48-6
+Added Pin To Net: NetName=NetSW48_6 Pin=SW64-6
+Added Net: Name=NetSW48_6
+Added Pin To Net: NetName=NetSW49_6 Pin=SW49-6
+Added Pin To Net: NetName=NetSW49_6 Pin=SW50-8
+Added Net: Name=NetSW49_6
+Added Pin To Net: NetName=NetSW49_8 Pin=SW49-8
+Added Pin To Net: NetName=NetSW49_8 Pin=SW65-8
+Added Net: Name=NetSW49_8
+Added Pin To Net: NetName=NetSW50_6 Pin=SW50-6
+Added Pin To Net: NetName=NetSW50_6 Pin=SW51-8
+Added Net: Name=NetSW50_6
+Added Pin To Net: NetName=NetSW51_6 Pin=SW51-6
+Added Pin To Net: NetName=NetSW51_6 Pin=SW52-8
+Added Net: Name=NetSW51_6
+Added Pin To Net: NetName=NetSW52_6 Pin=SW52-6
+Added Pin To Net: NetName=NetSW52_6 Pin=SW53-8
+Added Net: Name=NetSW52_6
+Added Pin To Net: NetName=NetSW53_6 Pin=SW53-6
+Added Pin To Net: NetName=NetSW53_6 Pin=SW54-8
+Added Net: Name=NetSW53_6
+Added Pin To Net: NetName=NetSW54_6 Pin=SW54-6
+Added Pin To Net: NetName=NetSW54_6 Pin=SW55-8
+Added Net: Name=NetSW54_6
+Added Pin To Net: NetName=NetSW55_6 Pin=SW55-6
+Added Pin To Net: NetName=NetSW55_6 Pin=SW56-8
+Added Net: Name=NetSW55_6
+Added Pin To Net: NetName=NetSW56_6 Pin=SW56-6
+Added Pin To Net: NetName=NetSW56_6 Pin=SW57-8
+Added Net: Name=NetSW56_6
+Added Pin To Net: NetName=NetSW57_6 Pin=SW57-6
+Added Pin To Net: NetName=NetSW57_6 Pin=SW58-8
+Added Net: Name=NetSW57_6
+Added Pin To Net: NetName=NetSW58_6 Pin=SW58-6
+Added Pin To Net: NetName=NetSW58_6 Pin=SW59-8
+Added Net: Name=NetSW58_6
+Added Pin To Net: NetName=NetSW59_6 Pin=SW59-6
+Added Pin To Net: NetName=NetSW59_6 Pin=SW60-8
+Added Net: Name=NetSW59_6
+Added Pin To Net: NetName=NetSW60_6 Pin=SW60-6
+Added Pin To Net: NetName=NetSW60_6 Pin=SW61-8
+Added Net: Name=NetSW60_6
+Added Pin To Net: NetName=NetSW61_6 Pin=SW61-6
+Added Pin To Net: NetName=NetSW61_6 Pin=SW62-8
+Added Net: Name=NetSW61_6
+Added Pin To Net: NetName=NetSW62_6 Pin=SW62-6
+Added Pin To Net: NetName=NetSW62_6 Pin=SW63-8
+Added Net: Name=NetSW62_6
+Added Pin To Net: NetName=NetSW63_6 Pin=SW63-6
+Added Pin To Net: NetName=NetSW63_6 Pin=SW64-8
+Added Net: Name=NetSW63_6
+Added Pin To Net: NetName=NetSW65_6 Pin=SW65-6
+Added Pin To Net: NetName=NetSW65_6 Pin=SW66-8
+Added Net: Name=NetSW65_6
+Added Pin To Net: NetName=NetSW66_6 Pin=SW66-6
+Added Pin To Net: NetName=NetSW66_6 Pin=SW67-8
+Added Net: Name=NetSW66_6
+Added Pin To Net: NetName=NetSW67_6 Pin=SW67-6
+Added Pin To Net: NetName=NetSW67_6 Pin=SW68-8
+Added Net: Name=NetSW67_6
+Added Pin To Net: NetName=NetSW68_6 Pin=SW68-6
+Added Pin To Net: NetName=NetSW68_6 Pin=SW69-8
+Added Net: Name=NetSW68_6
+Added Pin To Net: NetName=NetSW69_6 Pin=SW69-6
+Added Pin To Net: NetName=NetSW69_6 Pin=SW70-8
+Added Net: Name=NetSW69_6
+Added Pin To Net: NetName=NetSW70_6 Pin=SW70-6
+Added Pin To Net: NetName=NetSW70_6 Pin=SW71-8
+Added Net: Name=NetSW70_6
+Added Pin To Net: NetName=NetSW71_6 Pin=SW71-6
+Added Pin To Net: NetName=NetSW71_6 Pin=SW72-8
+Added Net: Name=NetSW71_6
+Added Pin To Net: NetName=NetSW72_6 Pin=SW72-6
+Added Pin To Net: NetName=NetSW72_6 Pin=SW73-8
+Added Net: Name=NetSW72_6
+Added Pin To Net: NetName=NetSW73_6 Pin=SW73-6
+Added Pin To Net: NetName=NetSW73_6 Pin=SW74-8
+Added Net: Name=NetSW73_6
+Added Pin To Net: NetName=NetSW74_6 Pin=SW74-6
+Added Pin To Net: NetName=NetSW74_6 Pin=SW75-8
+Added Net: Name=NetSW74_6
+Added Pin To Net: NetName=NetSW75_6 Pin=SW75-6
+Added Pin To Net: NetName=NetSW75_6 Pin=SW76-8
+Added Net: Name=NetSW75_6
+Added Pin To Net: NetName=NetSW76_6 Pin=SW76-6
+Added Pin To Net: NetName=NetSW76_6 Pin=SW77-8
+Added Net: Name=NetSW76_6
+Added Pin To Net: NetName=NetSW77_6 Pin=SW77-6
+Added Pin To Net: NetName=NetSW77_6 Pin=SW78-8
+Added Net: Name=NetSW77_6
+Added Pin To Net: NetName=NetSW78_6 Pin=SW78-6
+Added Pin To Net: NetName=NetSW78_6 Pin=SW79-8
+Added Net: Name=NetSW78_6
+Added Pin To Net: NetName=NetSW79_6 Pin=SW79-6
+Added Pin To Net: NetName=NetSW79_6 Pin=SW80-8
+Added Net: Name=NetSW79_6
+Added Pin To Net: NetName=NetSW80_6 Pin=SW80-6
+Added Pin To Net: NetName=NetSW80_6 Pin=SW96-6
+Added Net: Name=NetSW80_6
+Added Pin To Net: NetName=NetSW81_6 Pin=SW81-6
+Added Pin To Net: NetName=NetSW81_6 Pin=SW82-8
+Added Net: Name=NetSW81_6
+Added Pin To Net: NetName=NetSW82_6 Pin=SW82-6
+Added Pin To Net: NetName=NetSW82_6 Pin=SW83-8
+Added Net: Name=NetSW82_6
+Added Pin To Net: NetName=NetSW83_6 Pin=SW83-6
+Added Pin To Net: NetName=NetSW83_6 Pin=SW84-8
+Added Net: Name=NetSW83_6
+Added Pin To Net: NetName=NetSW84_6 Pin=SW84-6
+Added Pin To Net: NetName=NetSW84_6 Pin=SW85-8
+Added Net: Name=NetSW84_6
+Added Pin To Net: NetName=NetSW85_6 Pin=SW85-6
+Added Pin To Net: NetName=NetSW85_6 Pin=SW86-8
+Added Net: Name=NetSW85_6
+Added Pin To Net: NetName=NetSW86_6 Pin=SW86-6
+Added Pin To Net: NetName=NetSW86_6 Pin=SW87-8
+Added Net: Name=NetSW86_6
+Added Pin To Net: NetName=NetSW87_6 Pin=SW87-6
+Added Pin To Net: NetName=NetSW87_6 Pin=SW88-8
+Added Net: Name=NetSW87_6
+Added Pin To Net: NetName=NetSW88_6 Pin=SW88-6
+Added Pin To Net: NetName=NetSW88_6 Pin=SW89-8
+Added Net: Name=NetSW88_6
+Added Pin To Net: NetName=NetSW89_6 Pin=SW89-6
+Added Pin To Net: NetName=NetSW89_6 Pin=SW90-8
+Added Net: Name=NetSW89_6
+Added Pin To Net: NetName=NetSW90_6 Pin=SW90-6
+Added Pin To Net: NetName=NetSW90_6 Pin=SW91-8
+Added Net: Name=NetSW90_6
+Added Pin To Net: NetName=NetSW91_6 Pin=SW91-6
+Added Pin To Net: NetName=NetSW91_6 Pin=SW92-8
+Added Net: Name=NetSW91_6
+Added Pin To Net: NetName=NetSW92_6 Pin=SW92-6
+Added Pin To Net: NetName=NetSW92_6 Pin=SW93-8
+Added Net: Name=NetSW92_6
+Added Pin To Net: NetName=NetSW93_6 Pin=SW93-6
+Added Pin To Net: NetName=NetSW93_6 Pin=SW94-8
+Added Net: Name=NetSW93_6
+Added Pin To Net: NetName=NetSW94_6 Pin=SW94-6
+Added Pin To Net: NetName=NetSW94_6 Pin=SW95-8
+Added Net: Name=NetSW94_6
+Added Pin To Net: NetName=NetSW95_6 Pin=SW95-6
+Added Pin To Net: NetName=NetSW95_6 Pin=SW96-8
+Added Net: Name=NetSW95_6
+Added Pin To Net: NetName=RGB Pin=SW1-8
+Added Net: Name=RGB
+Added Room: Name=keyboard

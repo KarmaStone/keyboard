@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetSW16_6 Pin=SW32-6
+Removed Pin From Net: NetName=NetSW48_6 Pin=SW64-6
+Removed Pin From Net: NetName=NetSW80_6 Pin=SW96-6
+Added Pin To Net: NetName=NetSW16_6 Pin=SW17-8
+Added Pin To Net: NetName=NetSW48_6 Pin=SW49-8
+Added Pin To Net: NetName=NetSW80_6 Pin=SW81-8
+Added Pin To Net: NetName=NetSW32_6 Pin=SW32-6
+Added Pin To Net: NetName=NetSW32_6 Pin=SW33-8
+Added Net: Name=NetSW32_6
+Added Pin To Net: NetName=NetSW64_6 Pin=SW64-6
+Added Pin To Net: NetName=NetSW64_6 Pin=SW65-8
+Added Net: Name=NetSW64_6

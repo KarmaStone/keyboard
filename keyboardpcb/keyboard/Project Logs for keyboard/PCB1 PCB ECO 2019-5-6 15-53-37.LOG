@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ROW6 Pin=SW96-1
+Removed Pin From Net: NetName=COL16 Pin=SW96-4
+Removed Pin From Net: NetName=VCC Pin=SW96-5
+Removed Pin From Net: NetName=VCC Pin=SW96-5
+Removed Pin From Net: NetName=GND Pin=SW96-7
+Removed Pin From Net: NetName=GND Pin=SW96-7
+Removed Member From Class: ClassName=keyboard Member=SW96
+Added Component: Designator=D2(LED-0)
+Added Component: Designator=D3(LED-0)
+Added Pin To Net: NetName=LED2 Pin=D2-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=D3-2
+Added Pin To Net: NetName=LED3 Pin=D3-1
+Added Net: Name=LED3
+Added Member To Class: ClassName=keyboard Member=Component D2 LED0
+Added Member To Class: ClassName=keyboard Member=Component D3 LED0

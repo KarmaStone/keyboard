@@ -1,0 +1,243 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VDDR Pin=C9-2
+Removed Pin From Net: NetName=VDDR Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VDDR Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=VDDR Pin=L1-1
+Removed Pin From Net: NetName=DCDC_SW Pin=L1-2
+Removed Pin From Net: NetName=NetC18_2 Pin=U2-5
+Removed Pin From Net: NetName=NetC19_2 Pin=U2-6
+Removed Pin From Net: NetName=TX_DIO6 Pin=U2-23
+Removed Pin From Net: NetName=NetC20_2 Pin=U2-30
+Removed Pin From Net: NetName=NetC21_2 Pin=U2-31
+Removed Pin From Net: NetName=NetC19_2 Pin=X2-1
+Removed Pin From Net: NetName=NetC18_2 Pin=X2-2
+Removed Pin From Net: NetName=NetC20_2 Pin=X3-1
+Removed Pin From Net: NetName=GND Pin=X3-2
+Removed Pin From Net: NetName=NetC21_2 Pin=X3-3
+Removed Pin From Net: NetName=GND Pin=X3-4
+Removed Member From Class: ClassName=U_ble Member=X2
+Change Component Footprint: Designator=C9 Old Footprint=C0603 New Footprint=0402_C
+Change Component Footprint: Designator=C10 Old Footprint=C0603 New Footprint=0402_C
+Change Component Footprint: Designator=C11 Old Footprint=C0603 New Footprint=0402_C
+Change Component Footprint: Designator=C13 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C14 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C15 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C16 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C18 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C19 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C20 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=C21 Old Footprint=c0603 New Footprint=0402_C
+Change Component Footprint: Designator=X3 Old Footprint=FA-128 New Footprint=FC-135
+Change Component Footprint: Designator=L3 Old Footprint=L0603 New Footprint=L0805
+Change Component Footprint: Designator=L2 Old Footprint=L0603 New Footprint=LC-0402_L
+Change Component Footprint: Designator=L1 Old Footprint=L0805 New Footprint=LC-0402_L
+Change Component Footprint: Designator=R4 Old Footprint=r0603 New Footprint=0402_R
+Change Component Footprint: Designator=R5 Old Footprint=r0603 New Footprint=0402_R
+Change Component Comment : Designator=C14 Old Comment=1.2pF ¡À0.1pF New Comment=100nF
+Change Component Comment : Designator=C15 Old Comment=1.2pF ¡À0.1pF New Comment=100nF
+Change Component Comment : Designator=L3 Old Comment=2nH ¡À0.3nH New Comment=10uH ¡À20% 1A
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=12pF ¡À1%
+Change Component Comment : Designator=L1 Old Comment=10uH ¡À20% 1A New Comment=15nH ¡À5%
+Change Component Comment : Designator=C12 Old Comment=12pF ¡À1% New Comment=10uF
+Change Component Comment : Designator=C18 Old Comment=12pF ¡À1% New Comment=NC
+Change Component Comment : Designator=C19 Old Comment=12pF ¡À1% New Comment=NC
+Change Component Comment : Designator=L2 Old Comment=15nH ¡À5% New Comment=2nH ¡À0.3nH
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=1.2pF ¡À0.1pF
+Change Component Comment : Designator=C11 Old Comment=100nF New Comment=1.2pF ¡À0.1pF
+Change Component Comment : Designator=X3 Old Comment=FA-128 24MHz 8pF ¡À10ppm New Comment=FC-135 32.768KHZ 9PF 20PPM
+Change Component Comment : Designator=C20 Old Comment=NC New Comment=12pF ¡À1%
+Change Component Comment : Designator=C21 Old Comment=NC New Comment=12pF ¡À1%
+Change component parameters: Designator = "C18"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\UXZZUAPN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H6R8CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8pF ¡À0.25pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\RDDYHOVC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H6R8CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8pF ¡À0.25pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\KKEXNNXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H120FA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF ¡À1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\WHRKRJEF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H120FA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF ¡À1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "LC-0402_L"; UniqueID = "\PXUUQTRT\ATMZRYCO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LQG15HS2N0S02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2nH ¡À0.3nH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3"; Footprint = "FC-135"; UniqueID = "\PXUUQTRT\IHXLQVRE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "EPSON(°®ÆÕÉú)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FC-13532.768KHZ9PF20PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "FC-135 32.768KHZ 9PF 20PPM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "LC-0402_L"; UniqueID = "\PXUUQTRT\WPCKJHCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LQG15HS15NJ02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15nH ¡À5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3"; Footprint = "L0805"; UniqueID = "\PXUUQTRT\TLFIVTYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MPH201214S100MT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uH ¡À20% 1A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\XHZLSFSE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H120FA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF ¡À1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\ATCEQHIT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H1R2BA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2pF ¡À0.1pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\FTASMUCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "´åÌï"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H1R2BA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2pF ¡À0.1pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "C0603"; UniqueID = "\PXUUQTRT\JQJDNANU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RP02.04.000062"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\PTMIPFXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "0402C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RP02.04.000221"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "0402_C"; UniqueID = "\PXUUQTRT\GUYRGBLE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "0402C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RP02.04.000221"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=FPC1(FPC-0.5MM-36P-LCS-SJ-H2.0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "AFC07-S36ECC-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C262254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "F"; VariantName = "[No Variations]"
+Added Component: Designator=X4(FA-128)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EPSON(°®ÆÕÉú)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Q22FA12800120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FA-128 24MHz 8pF ¡À10ppm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VDDR Pin=C12-2
+Added Pin To Net: NetName=VDDR Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=VDDR Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VDDR Pin=L3-1
+Added Pin To Net: NetName=DCDC_SW Pin=L3-2
+Added Pin To Net: NetName=NetC20_2 Pin=U2-5
+Added Pin To Net: NetName=NetC21_2 Pin=U2-6
+Added Pin To Net: NetName=NetC18_2 Pin=U2-30
+Added Pin To Net: NetName=NetC19_2 Pin=U2-31
+Added Pin To Net: NetName=NetC21_2 Pin=X3-1
+Added Pin To Net: NetName=NetC20_2 Pin=X3-2
+Added Pin To Net: NetName=NetC18_2 Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=NetC19_2 Pin=X4-3
+Added Pin To Net: NetName=GND Pin=X4-4
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R5-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C11-2
+Added Pin To Net: NetName=NetC9_2 Pin=L2-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=L1-1
+Added Pin To Net: NetName=NetC10_2 Pin=L2-2
+Added Pin To Net: NetName=NetC10_2 Pin=U2-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U2-2
+Added Net: Name=NetL1_2
+Added Member To Class: ClassName=U_core Member=Component FPC1 AFC07-S36ECC-00
+Added Member To Class: ClassName=U_ble Member=Component X4 FA-128 24MHz 8pF ¡À10ppm

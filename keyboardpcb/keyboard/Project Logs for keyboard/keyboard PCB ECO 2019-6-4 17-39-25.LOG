@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBUS Pin=USBC1-A4
+Removed Pin From Net: NetName=VBUS Pin=USBC1-B9
+Added Pin To Net: NetName=Vtypec Pin=USBC1-A4
+Added Pin To Net: NetName=Vtypec Pin=USBC1-B9

@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : D:\我的项目\其他\键盘\core\core_V1.0.PcbDoc
+Date     : 2019/5/27
+Time     : 15:49:45
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InPolygon),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=35mil) (InPolygon),(InPadClass('TH'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(InNetClass('Earth'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(InPadClass('mark'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=25mil) (InPolygon),(InNetClass('Vin'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InPolygon),(InNetClass('SH'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=200mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=130mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_NRF24L01 (Bounding Region = (13422.795mil, 4145mil, 13817.795mil, 4525mil) (InComponentClass('U_NRF24L01'))
+Rule Violations :0
+
+Processing Rule : Room U_core (Bounding Region = (13082.795mil, 4030mil, 14167.795mil, 4285mil) (InComponentClass('U_core'))
+Rule Violations :0
+
+Processing Rule : Room U_ble (Bounding Region = (13347.795mil, 4330mil, 14182.795mil, 4660mil) (InComponentClass('U_ble'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

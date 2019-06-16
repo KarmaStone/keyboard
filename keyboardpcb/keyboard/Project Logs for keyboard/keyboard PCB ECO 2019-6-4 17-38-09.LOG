@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VBUS Pin=USBC1-A9
+Removed Pin From Net: NetName=VBUS Pin=USBC1-B4
+Added Component: Designator=D6(SOT23-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "--"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRV05-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RP02.15.000006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SRV05-4"; VariantName = "[No Variations]"
+Added Component: Designator=F1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "09-Feb-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "SCHlib build"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "ChenYinaho"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5A 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_DM Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=USB_DP Pin=D6-3
+Added Pin To Net: NetName=VBUS Pin=D6-5
+Added Pin To Net: NetName=VBUS Pin=F1-1
+Added Pin To Net: NetName=Vtypec Pin=F1-2
+Added Pin To Net: NetName=Vtypec Pin=USBC1-A9
+Added Pin To Net: NetName=Vtypec Pin=USBC1-B4
+Added Net: Name=Vtypec
+Added Member To Class: ClassName=keyboard Member=Component D6 SRV05-4
+Added Member To Class: ClassName=keyboard Member=Component F1 0.5A 12V

@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=VCC Pin=SW63-5
+Removed Pin From Net: NetName=VCC Pin=SW63-5
+Removed Pin From Net: NetName=VCC Pin=SW79-5
+Removed Pin From Net: NetName=VCC Pin=SW79-5
+Added Component: Designator=FPC1(FPC-0.5MM-36P-LCS-SJ-H2.0)
+Added Component: Designator=SW96(MX_SW-7)
+Added Pin To Net: NetName=ROW1 Pin=FPC1-5
+Added Pin To Net: NetName=ROW2 Pin=FPC1-6
+Added Pin To Net: NetName=ROW3 Pin=FPC1-7
+Added Pin To Net: NetName=ROW4 Pin=FPC1-8
+Added Pin To Net: NetName=ROW5 Pin=FPC1-9
+Added Pin To Net: NetName=ROW6 Pin=FPC1-10
+Added Pin To Net: NetName=ROW7 Pin=FPC1-11
+Added Pin To Net: NetName=COL1 Pin=FPC1-12
+Added Pin To Net: NetName=COL2 Pin=FPC1-13
+Added Pin To Net: NetName=COL3 Pin=FPC1-14
+Added Pin To Net: NetName=COL4 Pin=FPC1-15
+Added Pin To Net: NetName=COL5 Pin=FPC1-16
+Added Pin To Net: NetName=COL6 Pin=FPC1-17
+Added Pin To Net: NetName=COL7 Pin=FPC1-18
+Added Pin To Net: NetName=PD+ Pin=FPC1-19
+Added Pin To Net: NetName=RGB Pin=FPC1-20
+Added Pin To Net: NetName=COL8 Pin=FPC1-21
+Added Pin To Net: NetName=COL9 Pin=FPC1-22
+Added Pin To Net: NetName=COL10 Pin=FPC1-23
+Added Pin To Net: NetName=COL11 Pin=FPC1-24
+Added Pin To Net: NetName=COL12 Pin=FPC1-25
+Added Pin To Net: NetName=COL13 Pin=FPC1-26
+Added Pin To Net: NetName=COL14 Pin=FPC1-27
+Added Pin To Net: NetName=COL15 Pin=FPC1-28
+Added Pin To Net: NetName=COL16 Pin=FPC1-29
+Added Pin To Net: NetName=LED2 Pin=FPC1-30
+Added Pin To Net: NetName=I2C_SCL Pin=FPC1-31
+Added Pin To Net: NetName=I2C_SDA Pin=FPC1-32
+Added Pin To Net: NetName=VCC Pin=FPC1-33
+Added Pin To Net: NetName=GND Pin=FPC1-34
+Added Pin To Net: NetName=PD- Pin=FPC1-35
+Added Pin To Net: NetName=ROW6 Pin=SW96-1
+Added Pin To Net: NetName=NetSW96_2 Pin=SW96-2
+Added Pin To Net: NetName=NetSW96_2 Pin=SW96-3
+Added Pin To Net: NetName=COL16 Pin=SW96-4
+Added Pin To Net: NetName=VCC Pin=SW96-5
+Added Pin To Net: NetName=VCC Pin=SW96-5
+Added Pin To Net: NetName=GND Pin=SW96-7
+Added Pin To Net: NetName=GND Pin=SW96-7
+Added Pin To Net: NetName=NetSW95_6 Pin=SW96-8
+Added Member To Class: ClassName=keyboard Member=Component FPC1 AFC07-S36ECC-00
+Added Member To Class: ClassName=keyboard Member=Component SW96 MX_SW
+Added Room: Name=keyboard

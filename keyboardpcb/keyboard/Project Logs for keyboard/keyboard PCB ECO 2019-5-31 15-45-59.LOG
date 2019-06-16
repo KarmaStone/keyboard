@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC Pin=FPC1-3
+Added Pin To Net: NetName=VCC Pin=FPC1-4
+Added Pin To Net: NetName=VBUS Pin=FPC1-7
+Added Pin To Net: NetName=VBAT Pin=FPC1-8

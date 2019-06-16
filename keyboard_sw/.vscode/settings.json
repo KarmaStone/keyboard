@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "spi.h": "c",
+        "ws2812b.h": "c",
+        "usbd_core.h": "c",
+        "usb_device.h": "c"
+    }
+}

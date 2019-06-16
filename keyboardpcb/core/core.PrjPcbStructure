@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=top.SchDoc
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_ble|SchDesignator=U_ble|FileName=ble.SchDoc|SymbolType=Normal|RawFileName=ble.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_core|SchDesignator=U_core|FileName=core.SchDoc|SymbolType=Normal|RawFileName=core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_NRF24L01|SchDesignator=U_NRF24L01|FileName=NRF24L01.SchDoc|SymbolType=Normal|RawFileName=NRF24L01.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

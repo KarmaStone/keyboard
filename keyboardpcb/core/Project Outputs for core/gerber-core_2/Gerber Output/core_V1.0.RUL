@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: D:\我的项目\其他\键盘\core\core_V1.0.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Polygon-bound|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_Polygon-mark|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Clearance_Polygon-Vin|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_Polygon-SH|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_TH|Scope=Board|Minimum=35.00
+RuleKind=Clearance|RuleName=Clearance_Polygon-Earth|Scope=Board|Minimum=40.00
